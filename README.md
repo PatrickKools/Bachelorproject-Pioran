@@ -9,7 +9,7 @@ particularly the differences between SANE (Standard and Normal Evolution) and MA
 * Language: [Julia, Python]
 
 # Clone repository
-Clone this repository: `git clone [<url>](https://github.com/PatrickKools/Bachelorproject-Pioran.git)`
+Clone this repository: `git clone https://github.com/PatrickKools/Bachelorproject-Pioran.git`
 
 
 ## Contact
